@@ -9,7 +9,11 @@ Configuration for [kiex][] in the [fish shell][].
 Install with [Fisher][] (recommended):
 
 ```fish
+# Fisher 3.x
 fisher add halostatue/fish-kiex
+
+# Fisher 4.0+
+fisher install halostatue/fish-kiex
 ```
 
 <details>
